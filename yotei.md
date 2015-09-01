@@ -1,5 +1,29 @@
 # 予定
 
+## 09/05
+
+1. HTMLの基本
+	1. htlm
+	1. head
+	1. title
+	1. body
+	1. meta
+	1. h1, h2
+	1. ul, li
+	1. address
+	1. p
+	1. br
+	1. em, strong
+	1. img
+	1. a
+	1. <!-- コメント -->
+	1. table, tr, th, td
+1. CSSの基本
+1. [CODEPREP](http://codeprep.jp/ja)
+- ふりかえり
+
+---
+
 ## 09/04
 
 - Git/GitHub
@@ -7,6 +31,8 @@
 	- GitHubアカウントの作成、動作確認  
 	[GitHub](https://github.com/)
 - [Markdown記法 チートシート](https://help.github.com/articles/github-flavored-markdown/)
+- [sshの公開鍵を作成しGithubに登録する手順](http://monsat.hatenablog.com/entry/generating-ssh-keys-for-github)
+- ふりかえり
 
 ---
 
@@ -22,6 +48,10 @@
 		- ConvertToUTF8
 		- IMESupport
 		- SideBarEnhancements
+		- BracketHighlighter
+		- Emmet
+		- Markdown Preview
+- ふりかえり
 
 ---
 
