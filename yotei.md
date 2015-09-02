@@ -31,10 +31,10 @@
 		- Markdown Preview
 - Google Drives
 - Git/GitHub
-	- [サルでも分かるGit入門](http://www.backlog.jp/git-guide/)
+	- <a href="http://www.backlog.jp/git-guide/" target="_blank">サルでも分かるGit入門</a>
 	- GitHubアカウントの作成、動作確認  
-	[GitHub](https://github.com/)
-- [Markdown記法 チートシート](https://help.github.com/articles/github-flavored-markdown/)
+	<a href="https://github.com/" target="_blank">GitHub</a>
+- <a href="https://help.github.com/articles/github-flavored-markdown/" target="_blank">Markdown記法 チートシート</a>
 - ふりかえり
 
 ---
@@ -44,8 +44,7 @@
 - PCアカウントの作成、動作確認(実習)
 - プリンタのインストール、動作確認(実習)
 - gmailの設定、動作確認(実習)
-- コンピュータ概論(講義)  
-[スライド](http://www.slideshare.net/kkyama/20130225-16726615)
+- コンピュータ概論(講義)  <a href="http://www.slideshare.net/kkyama/20130225-16726615" target="_blank"></a>スライド
 - Sublime Textインストール、動作確認(実習)
 	- インストール
 	- 環境設定
