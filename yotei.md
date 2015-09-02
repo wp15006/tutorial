@@ -1,6 +1,6 @@
 # 予定
 
-## 09/05
+## 09/04
 
 1. HTMLの基本
 	1. htlm
@@ -24,8 +24,11 @@
 
 ---
 
-## 09/04
+## 09/03
 
+- Sublime Textインストール、動作確認(実習)
+	- Packageのインストール
+		- Markdown Preview
 - Git/GitHub
 	- [サルでも分かるGit入門](http://www.backlog.jp/git-guide/)
 	- GitHubアカウントの作成、動作確認  
@@ -36,8 +39,13 @@
 
 ---
 
-## 09/03
+## 09/02
 
+- PCアカウントの作成、動作確認(実習)
+- プリンタのインストール、動作確認(実習)
+- gmailの設定、動作確認(実習)
+- コンピュータ概論(講義)  
+[スライド](http://www.slideshare.net/kkyama/20130225-16726615)
 - Sublime Textインストール、動作確認(実習)
 	- インストール
 	- 環境設定
@@ -50,16 +58,4 @@
 		- SideBarEnhancements
 		- BracketHighlighter
 		- Emmet
-		- Markdown Preview
-- ふりかえり
-
----
-
-## 09/02
-
-- PCアカウントの作成、動作確認(実習)
-- プリンタのインストール、動作確認(実習)
-- gmailの設定、動作確認(実習)
-- コンピュータ概論(講義)  
-[スライド](http://www.slideshare.net/kkyama/20130225-16726615)
 - ふりかえり
