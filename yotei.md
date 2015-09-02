@@ -19,7 +19,7 @@
 	1. <!-- コメント -->
 	1. table, tr, th, td
 1. CSSの基本
-1. [CODEPREP](http://codeprep.jp/ja)
+1. <a href="http://codeprep.jp/ja" target="_blank">CODEPREP</a>
 - ふりかえり
 
 ---
