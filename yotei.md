@@ -44,7 +44,7 @@
 - PCアカウントの作成、動作確認(実習)
 - プリンタのインストール、動作確認(実習)
 - gmailの設定、動作確認(実習)
-- コンピュータ概論(講義)  <a href="http://www.slideshare.net/kkyama/20130225-16726615" target="_blank"></a>スライド
+- コンピュータ概論(講義)  <a href="http://www.slideshare.net/kkyama/20130225-16726615" target="_blank">スライド</a>
 - Sublime Textインストール、動作確認(実習)
 	- インストール
 	- 環境設定
