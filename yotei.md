@@ -35,7 +35,6 @@
 	- GitHubアカウントの作成、動作確認  
 	[GitHub](https://github.com/)
 - [Markdown記法 チートシート](https://help.github.com/articles/github-flavored-markdown/)
-- [sshの公開鍵を作成しGithubに登録する手順](http://monsat.hatenablog.com/entry/generating-ssh-keys-for-github)
 - ふりかえり
 
 ---
