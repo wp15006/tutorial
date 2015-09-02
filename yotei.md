@@ -56,5 +56,6 @@
 		- IMESupport
 		- SideBarEnhancements
 		- BracketHighlighter
-		- Emmet
+		- Emmet  
+		<a href="http://docs.emmet.io/cheat-sheet/" target="_blank">Emmet記法 チートシート</a>
 - ふりかえり
