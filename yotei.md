@@ -29,6 +29,7 @@
 - Sublime Textインストール、動作確認(実習)
 	- Packageのインストール
 		- Markdown Preview
+- Google Drives
 - Git/GitHub
 	- [サルでも分かるGit入門](http://www.backlog.jp/git-guide/)
 	- GitHubアカウントの作成、動作確認  
