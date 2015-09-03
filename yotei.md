@@ -30,7 +30,8 @@
 - Git/GitHub
 	- <a href="http://www.backlog.jp/git-guide/" target="_blank">サルでも分かるGit入門</a>
 	- GitHubアカウントの作成、動作確認  
-	<a href="https://github.com/" target="_blank">GitHub</a>
+	<a href="https://github.com/" target="_blank">GitHub</a>  
+	<a href="https://github.com/wp15000/list/blob/master/list.md">各位のGitHubアカウント</a>
 - <a href="https://help.github.com/articles/github-flavored-markdown/" target="_blank">Markdown記法 チートシート</a>
 - ふりかえり
 
