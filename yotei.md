@@ -26,9 +26,6 @@
 
 ## 09/03
 
-- Sublime Textインストール、動作確認(実習)
-	- Packageのインストール
-		- Markdown Preview
 - Google Drives
 - Git/GitHub
 	- <a href="http://www.backlog.jp/git-guide/" target="_blank">サルでも分かるGit入門</a>
@@ -46,16 +43,19 @@
 - gmailの設定、動作確認(実習)
 - コンピュータ概論(講義)  <a href="http://www.slideshare.net/kkyama/20130225-16726615" target="_blank">スライド</a>
 - Sublime Textインストール、動作確認(実習)
-	- インストール
+	- インストール(p15)
 	- 環境設定
-		- フォントサイズの変更
-		- カラースキームを変更
-	- Package Controlをインストール
+		- フォントサイズの変更(p29)
+		- カラースキームを変更(p32)
+	- Package Controlをインストール(p38)
 	- Packageのインストール
-		- ConvertToUTF8
-		- IMESupport
-		- SideBarEnhancements
-		- BracketHighlighter
-		- Emmet  
+		- ConvertToUTF8(p46)
+		- IMESupport(p47)
+		- SideBarEnhancements(p138)
+		- BracketHighlighter(p163)
+		- Emmet(p190)  
 		<a href="http://docs.emmet.io/cheat-sheet/" target="_blank">Emmet記法 チートシート</a>
+		- Markdown Preview(p221)  
+		<a href="https://help.github.com/articles/github-flavored-markdown/" target="_blank">Markdown記法 チートシート</a>
+		- TrailingSpaces(p144)
 - ふりかえり
