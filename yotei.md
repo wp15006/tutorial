@@ -56,7 +56,9 @@
 		- BracketHighlighter(p163)
 		- Emmet(p190)  
 		<a href="http://docs.emmet.io/cheat-sheet/" target="_blank">Emmet記法 チートシート</a>
-		- Markdown Preview(p221)  
+		- Markdown Preview(p221) => 削除
+		- OmniMarkupPreviewer => 追加
 		<a href="https://help.github.com/articles/github-flavored-markdown/" target="_blank">Markdown記法 チートシート</a>
 		- TrailingSpaces(p144)
+		- AutoFileName
 - ふりかえり
